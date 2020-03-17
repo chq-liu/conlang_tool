@@ -5,7 +5,7 @@
 **注意：**
 本書是未經授權的翻譯版本，其母本是 2011 年出版的 Kindle 版 LCK。如果您希望支持正版，可以閱讀這個簡略的[在線免費版](http://zompist.com/kit.html)，也可以在[這裏](http://zompist.com/lckbook.html)購買原版英文版。
 
-以下是 LCK 的目錄和引言部分，已經翻譯的章節在目錄內會以中文名字顯示，並給出跳轉連結。
+以下是 LCK 的目錄，已經翻譯的章節在目錄內會以中文名字顯示，並給出跳轉連結。
 
 ## 目錄
 
@@ -35,6 +35,3 @@
     - Which words you really need
 13. More to read
     - An annotated reading list
-
-## 引言
-
